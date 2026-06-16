@@ -1,0 +1,95 @@
+.descripcionIZQ{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    text-align: left;
+    margin-bottom: 15px;
+    line-height: 1.6;
+    font-size: 30px;
+}
+
+.descripcionDER{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    line-height: 1.6;
+    font-size: 30px;
+}
+.presentacion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+body{
+    background-color: #111;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.titulo-contenedor{
+    text-align: center;
+}
+
+.titulo{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+.titulo h1{
+    font-size: 120px;
+    margin: 0;
+    line-height: 1;
+}
+.titulo h2{
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+.gary-container{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+}
+
+.gary{
+    width: 350px;
+    height: auto;
+}
+.lista li{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    line-height: 1.6;
+    font-size: 30px;
+}
+.cta{
+    background-color: #4b1684;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    line-height: 1;
+    font-size: 40px;
+}
